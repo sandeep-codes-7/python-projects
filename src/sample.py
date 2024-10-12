@@ -1,1 +1,5 @@
-print("hello world!")
+try:
+    while(True):
+        print("welcome !")
+except KeyboardInterrupt:
+    print("exited")
