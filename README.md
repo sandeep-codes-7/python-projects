@@ -1,8 +1,8 @@
-# PYTHON PROJECTS FOR BEGINNERS
+# Python for beginners 😉
 
-# ABOUT:
+# About:
     in this repo, we are going to learn few simple python programs 
 
-# GETTING STARTED:
+# Getting started:
     python3
 
