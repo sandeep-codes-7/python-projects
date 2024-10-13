@@ -20,4 +20,6 @@ Ex:
 name = intput()
 
 NOTE: In python, input() function by defaults returns the string type data.
+
+
 '''
