@@ -4,7 +4,7 @@ As we know that, we can use variables to store the data.
 A variable is an entity that stores data of different type.
 Since python is a dynamic programming language, it's not necessary to declare variable's data type
 ex:
-    num = 12
+    num = 12\n
     name = 'Sandeep'
     balance = 7.5
 
