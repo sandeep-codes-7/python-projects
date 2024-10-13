@@ -5,8 +5,8 @@ A variable is an entity that stores data of different type.
 Since python is a dynamic programming language, it's not necessary to declare variable's data type.
 
 Ex:
-num = 12
-name = 'Sandeep'
+num = 12;
+name = 'Sandeep';
 balance = 7.5
 
 So, now we are aware of variables..
