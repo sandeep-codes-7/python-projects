@@ -1,6 +1,6 @@
-# basics of python:
-    #printing statements
+# displaying a message or the data:
+
     print("Hello world")
-    #printing integers
+
     print(1)
     
