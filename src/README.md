@@ -1,6 +1,21 @@
-# displaying a message or the data:
+# variables and user input.
+''' 
+As we know that, we can use variables to store the data.
+A variable is an entity that stores data of different type.
+Since python is a dynamic programming language, it's not necessary to declare variable's data type
+ex:
+    num = 12
+    name = 'Sandeep'
+    balance = 7.5
 
-    print("Hello world")
+So, now we are aware of variables..
 
-    print(1)
-    
+in C/C++ or java, you might have seen different functions or methods to take the input from the users.
+
+But, in python we use a simple function 'input()'
+The input function is assigned to a variable to store the value or data.
+ex:
+    name = intput()
+
+ NOTE: In python, input() function by defaults returns the string type data.
+'''
